@@ -11,5 +11,10 @@ dostep do bazy danych np.:
 cd backend/
 php bin/console dbal:run-sql 'SELECT * FROM product'
 
-uzylem doctrine 
+uzylem:
+symfony: 6.3
+vue: 2.6.14
+doctrine 
 axios
+
+baza danych: Mysql + xampp
