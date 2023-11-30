@@ -12,6 +12,8 @@ cd backend/
 php bin/console dbal:run-sql 'SELECT * FROM product'
 
 uzylem:
+composer
+npm
 symfony: 6.3
 vue: 2.6.14
 doctrine 
