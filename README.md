@@ -20,3 +20,12 @@ doctrine
 axios
 
 baza danych: Mysql + xampp
+
+Strona startowa
+![main page](img/start.JPG?raw=true "Title")
+Walidacja po stronie klienta
+![main page](img/start2.JPG?raw=true "Title")
+Udane przesłanie
+![main page](img/start3.JPG?raw=true "Title")
+Wyświetlenie wszystkich rekordów
+![main page](img/start4.JPG?raw=true "Title")
